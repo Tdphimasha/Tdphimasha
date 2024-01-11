@@ -1,14 +1,14 @@
 <img align="ceneter" alt="Coding" width="980" height="150" src="https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif">
 <h1 align="center">Hi 👋, I'm Pragathi Himasha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Designer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdphimasha&label=Profile%20views&color=0e75b6&style=flat" alt="tdphimasha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native,Vue**
+- 🌱 I’m currently learning **React Native,Vue, UI/ UX principles **
 
-- 📫 How to reach me **tdphimasha1002@gmail.com**
+- 📫 How to reach me **tdphimasha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
